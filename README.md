@@ -10,6 +10,6 @@ Lets et started
 
 ''' sudo install python
 
-<div class="text-purple">
-  This text is purple, <a href="#" class="text-inherit">including the link</a>
+<div class="text-blue mb-2">
+  .text-blue on white
 </div>
