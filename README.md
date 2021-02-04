@@ -10,6 +10,6 @@ Lets et started
 
 ''' sudo install python
 
-<div class="text-blue mb-2">
-  .text-blue on white
+<div class="bg-gray">
+  .text-gray-dark on .bg-gray
 </div>
